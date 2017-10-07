@@ -17,6 +17,8 @@ https://www.inflearn.com/course/%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9D%B8-%EB%A8%B8%E
 - [1강](http://hunkim.github.io/ml/RL/rl01.pdf)  
 - [2강](http://hunkim.github.io/ml/RL/rl02.pdf)  
 - [lab2 (2강 실습)](http://hunkim.github.io/ml/RL/rl-l02.pdf)  
+  결과화면  
+  ![result](img/result_lab2.png)
   [Agent의 움직임에 따라 Q table을 작성하는 코드를 실습해본 유저블로그](http://passi0n.tistory.com/82)  
   [Q-Learning 알고리즘 이용하는 코드 작성한 유저 블로그](http://passi0n.tistory.com/83)  
   ​
